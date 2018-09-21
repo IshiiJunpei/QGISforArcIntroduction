@@ -145,10 +145,10 @@ GISとはどのようなものか、GISを利用するメリットやGISを利�
 - 数値行列と「絵」的なデータ
 
 
-### 絵的なラスタデータ
+### 絵的なラスタデータ（Landsat）
 
 <img src="rastar03.png" width=100%>
-
+（The source data was downloaded from AIST's Landsat-8 Data Immediate Release Site, Japan（http://landsat8.geogrid.org/）.  Landsat 8 data courtesy of the U.S. Geological Survey.）
 
 ### データ行列（数値標高モデル）
 
@@ -163,12 +163,12 @@ GISとはどのようなものか、GISを利用するメリットやGISを利�
 ### 衛星画像＋傾斜区分＋陰影図
 
 <img src="rastar04.png" width=100%>
-
+（Landsat及び数値標高モデルを使用）
 
 ### 微地形判読に特化したCS立体図
 
 <img src="rastar05.png" width=100%>
-
+（北海道CS立体図（国土地理院承認番号　平28情使、 第830号））
 
 ## 測地系と座標系
 
